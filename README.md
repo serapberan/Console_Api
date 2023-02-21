@@ -6,10 +6,6 @@
 - İlk önce Api projesi ayağa kaldırılmalı sonra console çalıştırılmalıdır
 
 
-- Proje C# dili ile yazılmıştır
-- Database ollarak Sql kullanılmış CodeFirst yaklaşımı ile gerçekleştririlmiştir.
-
-
 ## Projeye Ait Resimler
 -Api Kod Bloğu
 ![api](https://user-images.githubusercontent.com/79447748/220441985-65a437f3-1c45-4b7e-b682-04b25ae54a9a.png)
