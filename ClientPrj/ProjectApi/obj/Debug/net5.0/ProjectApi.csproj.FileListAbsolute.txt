@@ -1,0 +1,15 @@
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\bin\Debug\net5.0\ProjectApi.exe
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\bin\Debug\net5.0\ProjectApi.deps.json
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\bin\Debug\net5.0\ProjectApi.runtimeconfig.json
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\bin\Debug\net5.0\ProjectApi.runtimeconfig.dev.json
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\bin\Debug\net5.0\ProjectApi.dll
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\bin\Debug\net5.0\ref\ProjectApi.dll
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\bin\Debug\net5.0\ProjectApi.pdb
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ProjectApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ProjectApi.AssemblyInfoInputs.cache
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ProjectApi.AssemblyInfo.cs
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ProjectApi.csproj.CoreCompileInputs.cache
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ProjectApi.dll
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ref\ProjectApi.dll
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ProjectApi.pdb
+C:\Users\serap\source\repos\ClientPrj\ProjectApi\obj\Debug\net5.0\ProjectApi.genruntimeconfig.cache

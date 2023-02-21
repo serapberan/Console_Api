@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9pH0PmgLwI8Ea5UyZTGacrED2fRlEPLptpWPuvj35KvGq2HPN36jJQOyntZWcyN2VnxwiJXdUg4J1+1X1K7fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serap\\source\\repos\\PrjClientWebApi\\PrjClientWebApi\\PrjClientWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serap\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\serap\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\serap\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\serap\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\serap\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\serap\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
